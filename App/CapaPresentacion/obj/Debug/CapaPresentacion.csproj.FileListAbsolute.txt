@@ -1,0 +1,41 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+D:\programacion\BD sql\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\programacion\BD sql\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaPresentacion.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaLogica.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaLogica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloEspecialista.resources
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.FrmModuloPaciente.resources
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

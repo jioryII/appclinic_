@@ -1,0 +1,51 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.exe.config
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.exe
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\AppClinica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.Form1.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.Properties.Resources.resources
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.GenerateResource.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.exe
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaPresentacion.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaPresentacion.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
+D:\programacion\BD sql\App\AppClinica\bin\Debug\AppClinica.exe.config
+D:\programacion\BD sql\App\AppClinica\bin\Debug\AppClinica.exe
+D:\programacion\BD sql\App\AppClinica\bin\Debug\AppClinica.pdb
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaPresentacion.dll
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaLogica.dll
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaDatos.dll
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaPresentacion.pdb
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaLogica.pdb
+D:\programacion\BD sql\App\AppClinica\bin\Debug\CapaDatos.pdb
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.Form1.resources
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.Properties.Resources.resources
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.csproj.GenerateResource.cache
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.exe
+D:\programacion\BD sql\App\AppClinica\obj\Debug\AppClinica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\AppClinica.exe.config
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\AppClinica.exe
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\AppClinica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaPresentacion.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaLogica.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaDatos.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaPresentacion.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaLogica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\bin\Debug\CapaDatos.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.csproj.AssemblyReference.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.Form1.resources
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.Properties.Resources.resources
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.csproj.GenerateResource.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.csproj.CoreCompileInputs.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.csproj.Up2Date
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.exe
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\AppClinica\obj\Debug\AppClinica.pdb

@@ -1,0 +1,27 @@
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaLogica.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\bin\Debug\CapaDatos.pdb
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.dll
+E:\SENATI\PlanSesion20204-1\ING-SOFT-SEMESTRE-IV\2-LP-3\ProyectoLP\App\CapaLogica\obj\Debug\CapaLogica.pdb
+D:\programacion\BD sql\App\CapaLogica\bin\Debug\CapaLogica.dll
+D:\programacion\BD sql\App\CapaLogica\bin\Debug\CapaLogica.pdb
+D:\programacion\BD sql\App\CapaLogica\bin\Debug\CapaDatos.dll
+D:\programacion\BD sql\App\CapaLogica\bin\Debug\CapaDatos.pdb
+D:\programacion\BD sql\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+D:\programacion\BD sql\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+D:\programacion\BD sql\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+D:\programacion\BD sql\App\CapaLogica\obj\Debug\CapaLogica.dll
+D:\programacion\BD sql\App\CapaLogica\obj\Debug\CapaLogica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\bin\Debug\CapaLogica.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\bin\Debug\CapaLogica.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\bin\Debug\CapaDatos.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\bin\Debug\CapaDatos.pdb
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\obj\Debug\CapaLogica.dll
+C:\Users\yajael\Downloads\ClinicaAPP-main\App\CapaLogica\obj\Debug\CapaLogica.pdb
